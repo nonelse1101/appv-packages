@@ -1,0 +1,25 @@
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV_Packages.Properties.Resources.resources
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\AppV Packages.exe.config
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\AppV Packages.exe
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\AppV Packages.pdb
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.exe
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.pdb
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV_Packages.frmConnection.resources
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\office.dll
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\office.xml
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\AppV Packages.exe.manifest
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\bin\Debug\AppV Packages.application
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.exe.manifest
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.application
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV_Packages.AboutBox1.resources
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Justin's Stuff\VS2010 Projects\AppV Packages\AppV Packages\obj\x86\Debug\AppV_Packages.frmMain.resources
+\\ftwnas02\NetworkTelecom\Network\Applications\C# Repo\AppV Packages\AppV Packages\bin\Debug\AppV Packages.exe.config
+\\ftwnas02\NetworkTelecom\Network\Applications\C# Repo\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.exe
+\\ftwnas02\NetworkTelecom\Network\Applications\C# Repo\AppV Packages\AppV Packages\obj\x86\Debug\AppV Packages.pdb
