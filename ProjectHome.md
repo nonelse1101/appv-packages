@@ -1,0 +1,1 @@
+Application to retrieve information on all published applications on an AppV Server
